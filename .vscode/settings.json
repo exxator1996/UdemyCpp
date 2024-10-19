@@ -6,7 +6,7 @@
   "editor.renderWhitespace": "trailing",
   "editor.suggestSelection": "first",
   "editor.formatOnSave": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.defaultFormatter": "xaver.clang-format",
   "editor.stickyScroll.enabled": false,
   "editor.bracketPairColorization.enabled": false,
   "editor.cursorSmoothCaretAnimation": "on",
@@ -125,7 +125,7 @@
     "*.md": "vscode.markdown.preview.editor",
     "*.svg": "svgPreviewer.customEditor"
   },
-  "workbench.colorTheme": "Default Dark+",
+  "workbench.colorTheme": "Noctis Azureus",
   "git.enableSmartCommit": true,
   "git.autofetch": true,
   "git.confirmSync": false,
@@ -252,7 +252,7 @@
   "C_Cpp_Runner.cCompilerPath": "gcc",
   "C_Cpp_Runner.cppCompilerPath": "g++",
   "C_Cpp_Runner.debuggerPath": "gdb",
-  "C_Cpp_Runner.useMsvc": true,
+  "C_Cpp_Runner.useMsvc": false,
   "C_Cpp_Runner.warnings": [
     "-Wall",
     "-Wextra",
@@ -301,5 +301,5 @@
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
-  "C_Cpp_Runner.msvcBatchPath": "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Auxiliary/Build/vcvarsall.bat"
+  "C_Cpp_Runner.msvcBatchPath": ""
 }
