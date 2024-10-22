@@ -1,3 +1,4 @@
+#include <cmath>
 #include <iostream>
 
 // 1.) User-Input: side length of a square
@@ -6,15 +7,14 @@
 
 int main()
 {
-    double a = 0.0F;
-    std::cout << "Please enter the value of a: ";
-    std::cin >> a;
+    double_t side_length = 0;
+    std::cout << "Input side length of a square: ";
+    std::cin >> side_length;
 
-    double perimeter = 4.0 * a;
-    double area = a * a;
+    double_t perimeter = side_length * 4;
+    double_t area = side_length * side_length;
 
-    std::cout << "Perimeter: " << perimeter << std::endl;
-    std::cout << "Area: " << area << std::endl;
+    std::cout << "Perimeter: " << perimeter << " Area: " << area << std::endl;
 
     return 0;
 }

@@ -1,7 +1,7 @@
 {
   "editor.tabSize": 4,
   "editor.rulers": [
-    120
+    140
   ],
   "editor.renderWhitespace": "trailing",
   "editor.suggestSelection": "first",
@@ -108,7 +108,7 @@
   },
   "[cpp]": {
     "editor.formatOnSave": false,
-    "editor.defaultFormatter": "ms-vscode.cpptools"
+    "editor.defaultFormatter": "xaver.clang-format"
   },
   "[cuda-cpp]": {
     "editor.defaultFormatter": "ms-vscode.cpptools"
