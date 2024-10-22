@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/mnt/c/Users/niklas/Documents/Programmieren/Cpp/UdemyCpp/02_Basics/2_1",
-      "program": "/mnt/c/Users/niklas/Documents/Programmieren/Cpp/UdemyCpp/02_Basics/2_1/build/Debug/outDebug"
+      "cwd": "/mnt/c/Users/niklas/Documents/Programmieren/Cpp/UdemyCpp/ComputerGame1",
+      "program": "/mnt/c/Users/niklas/Documents/Programmieren/Cpp/UdemyCpp/ComputerGame1/build/Debug/outDebug"
     }
   ]
 }
