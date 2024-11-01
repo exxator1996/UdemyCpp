@@ -186,5 +186,14 @@
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
-  "C_Cpp_Runner.msvcBatchPath": ""
+  "C_Cpp_Runner.msvcBatchPath": "",
+  "c-cpp-flylint.cppcheck.enable": true,
+  "c-cpp-flylint.flexelint.enable": false,
+  "c-cpp-flylint.flawfinder.enable": false,
+  "c-cpp-flylint.lizard.enable": false,
+  "c-cpp-flylint.undefines": [],
+  "c-cpp-flylint.clang.standard": [
+    "c++20"
+  ],
+  "c-cpp-flylint.clang.defines": []
 }
