@@ -1,16 +1,11 @@
-#include <cstdint>
+#include "Game.hpp"
 #include <iostream>
 
-int main() {
-  char LEFT = 'a';
-  char RIGHT = 'd';
-
+void game() {
   char move = 0;
-
   std::uint16_t player_postion = 0;
 
-  const std::uint16_t field_start = 0;
-  const std::uint16_t field_end = 9;
+
 
   while (player_postion < field_end) {
     // Update Screen
@@ -39,5 +34,4 @@ int main() {
   }
 
   std::cout << "The Player reached the goal!" << std::endl;
-  return 0;
 }
