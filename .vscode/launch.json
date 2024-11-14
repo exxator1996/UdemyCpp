@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/home/niklas/Programmieren/cpp/UdemyCpp/UdemyCpp/ComputerGame3/MySolution",
-      "program": "/home/niklas/Programmieren/cpp/UdemyCpp/UdemyCpp/ComputerGame3/MySolution/build/Debug/outDebug"
+      "cwd": "/home/niklas/Programmieren/cpp/UdemyCpp/UdemyCpp/03_ArrayPointer/3_2",
+      "program": "/home/niklas/Programmieren/cpp/UdemyCpp/UdemyCpp/03_ArrayPointer/3_2/build/Debug/outDebug"
     }
   ]
 }
