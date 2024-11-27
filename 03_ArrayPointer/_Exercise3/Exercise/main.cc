@@ -1,7 +1,7 @@
 #include <cstdint>
 #include <iostream>
 
-#include "exercise2.h"
+#include "exercise.h"
 
 // int main()
 int main()
